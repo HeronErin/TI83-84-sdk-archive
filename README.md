@@ -1,9 +1,9 @@
 # TI 83/84 plus sdk archive
 
-TI has removed download links to their SDK from their website, here is a mirror of [this](https://isa.umh.es/calc/TI/TI83-84SDK/) website that has perserved someor all? of the sdk and includes the following files.
+TI has removed download links to their SDK from their website, here is a mirror of [this](https://isa.umh.es/calc/TI/TI83-84SDK/) website that has perserved some (all?) of the sdk and includes the following files.
 
 
-- [83psdk_setup.exe     ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/83psdk_setup.exe     ) size: 4352793 last modified at Jan 29 2007
+- [83psdk_setup.exe     ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/83psdk_setup.exe     ) size: 4352793 last modified at Jan 29 2007)
 - [83psysroutines.pdf   ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/83psysroutines.pdf   ) size: 1326787 last modified at Jan 29 2007
 - [alltutorials.zip     ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/alltutorials.zip     ) size: 342363  last modified at Jan 29 2007
 - [appheaderguide.pdf   ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/appheaderguide.pdf   ) size: 40330   last modified at Jan 29 2007
