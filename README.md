@@ -1,27 +1,27 @@
-#&emsp;TI&emsp;83/84&emsp;plus&emsp;sdk&emsp;archive
+# TI 83/84 plus sdk archive
 
-TI&emsp;has&emsp;removed&emsp;download&emsp;links&emsp;to&emsp;their&emsp;SDK&emsp;from&emsp;their&emsp;website,&emsp;here&emsp;is&emsp;a&emsp;mirror&emsp;of&emsp;[this](https://isa.umh.es/calc/TI/TI83-84SDK/)&emsp;website&emsp;that&emsp;has&emsp;perserved&emsp;some&emsp;(all?)&emsp;of&emsp;the&emsp;sdk&emsp;and&emsp;includes&emsp;the&emsp;following&emsp;files.
+TI has removed download links to their SDK from their website, here is a mirror of [this](https://isa.umh.es/calc/TI/TI83-84SDK/) website that has perserved (all?) of the sdk and includes the following files.
 
 
--&emsp;[83psdk_setup.exe&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/83psdk_setup.exe&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;4352793&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007)
--&emsp;[83psysroutines.pdf&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/83psysroutines.pdf&emsp;&emsp;&emsp;)&emsp;size:&emsp;1326787&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[alltutorials.zip&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/alltutorials.zip&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;342363&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[appheaderguide.pdf&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/appheaderguide.pdf&emsp;&emsp;&emsp;)&emsp;size:&emsp;40330&emsp;&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[appheader.zip&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/appheader.zip&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;52313&emsp;&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[convbmp.exe&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/convbmp.exe&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;45056&emsp;&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[convhex.exe&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/convhex.exe&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;40960&emsp;&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[datatemplate.exe&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/datatemplate.exe&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;53418&emsp;&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[icomsym.exe&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/icomsym.exe&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;78627&emsp;&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[menucreator.zip&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/menucreator.zip&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;219070&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[pubdoc.pdf&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/pubdoc.pdf&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;198096&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[pubqrg.pdf&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/pubqrg.pdf&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;123501&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[sdk83pguide.pdf&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/sdk83pguide.pdf&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;1318041&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[sdk83puiguideline.pdf](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/sdk83puiguideline.pdf)&emsp;size:&emsp;351029&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[strtend.asm&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/strtend.asm&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;2925&emsp;&emsp;&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[ti73.inc&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/ti73.inc&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;198165&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[ti83plus.inc&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/ti83plus.inc&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;268870&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[TI83Plus_OS.8Xu&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/TI83Plus_OS.8Xu&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;552604&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[TI83Plus_OS.zip&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/TI83Plus_OS.zip&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;218243&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[ti83pseadn.pdf&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/ti83pseadn.pdf&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;30583&emsp;&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
--&emsp;[tutorial.zip&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/tutorial.zip&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;)&emsp;size:&emsp;464109&emsp;&emsp;last&emsp;modified&emsp;at&emsp;Jan&emsp;29&emsp;2007
+- [83psdk_setup.exe     ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/83psdk_setup.exe     ) size: 4352793 last modified at Jan 29 2007)
+- [83psysroutines.pdf   ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/83psysroutines.pdf   ) size: 1326787 last modified at Jan 29 2007
+- [alltutorials.zip     ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/alltutorials.zip     ) size: 342363  last modified at Jan 29 2007
+- [appheaderguide.pdf   ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/appheaderguide.pdf   ) size: 40330   last modified at Jan 29 2007
+- [appheader.zip        ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/appheader.zip        ) size: 52313   last modified at Jan 29 2007
+- [convbmp.exe          ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/convbmp.exe          ) size: 45056   last modified at Jan 29 2007
+- [convhex.exe          ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/convhex.exe          ) size: 40960   last modified at Jan 29 2007
+- [datatemplate.exe     ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/datatemplate.exe     ) size: 53418   last modified at Jan 29 2007
+- [icomsym.exe          ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/icomsym.exe          ) size: 78627   last modified at Jan 29 2007
+- [menucreator.zip      ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/menucreator.zip      ) size: 219070  last modified at Jan 29 2007
+- [pubdoc.pdf           ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/pubdoc.pdf           ) size: 198096  last modified at Jan 29 2007
+- [pubqrg.pdf           ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/pubqrg.pdf           ) size: 123501  last modified at Jan 29 2007
+- [sdk83pguide.pdf      ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/sdk83pguide.pdf      ) size: 1318041 last modified at Jan 29 2007
+- [sdk83puiguideline.pdf](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/sdk83puiguideline.pdf) size: 351029  last modified at Jan 29 2007
+- [strtend.asm          ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/strtend.asm          ) size: 2925    last modified at Jan 29 2007
+- [ti73.inc             ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/ti73.inc             ) size: 198165  last modified at Jan 29 2007
+- [ti83plus.inc         ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/ti83plus.inc         ) size: 268870  last modified at Jan 29 2007
+- [TI83Plus_OS.8Xu      ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/TI83Plus_OS.8Xu      ) size: 552604  last modified at Jan 29 2007
+- [TI83Plus_OS.zip      ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/TI83Plus_OS.zip      ) size: 218243  last modified at Jan 29 2007
+- [ti83pseadn.pdf       ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/ti83pseadn.pdf       ) size: 30583   last modified at Jan 29 2007
+- [tutorial.zip         ](https://github.com/HeronErin/TI83-84-sdk-archive/raw/main/tutorial.zip         ) size: 464109  last modified at Jan 29 2007
 
