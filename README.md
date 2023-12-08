@@ -1,6 +1,6 @@
 # TI 83/84 plus sdk archive
 
-TI has removed download links to their SDK from their website, here is a mirror of [this]https://isa.umh.es/calc/TI/TI83-84SDK/ website that has perserved someor all? of the sdk and includes the following files.
+TI has removed download links to their SDK from their website, here is a mirror of [this](https://isa.umh.es/calc/TI/TI83-84SDK/) website that has perserved someor all? of the sdk and includes the following files.
 
 
 - 83psdk_setup.exe      size: 4352793 last modified at Jan 29 2007
